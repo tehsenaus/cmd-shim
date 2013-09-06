@@ -1,6 +1,6 @@
 {
   "name": "cmd-shim",
-  "version": "1.1.1",
+  "version": "1.1.1-prog-as-path",
   "description": "Used in npm for command line application support",
   "scripts": {
     "test": "tap test/*.js"
